@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1586680646 source:e:\programming\labs sem 2\var6\main.cpp
+	<iostream>
+	"notebook.h"
+
+1586679860 source:e:\programming\labs sem 2\var6\notebook.cpp
+	"notebook.h"
+
+1586679860 e:\programming\labs sem 2\var6\notebook.h
+	<string>
+	<iostream>
+
+1586680646 source:c:\users\79297\desktop\2 лаба\main.cpp
+	<iostream>
+	"notebook.h"
+
+1586679860 c:\users\79297\desktop\2 лаба\notebook.h
+	<string>
+	<iostream>
+
+1586679860 source:c:\users\79297\desktop\2 лаба\notebook.cpp
+	"notebook.h"
+
+1586680646 source:c:\users\79297\desktop\Илья учёба\2 лаба\main.cpp
+	<iostream>
+	"notebook.h"
+
+1586679860 c:\users\79297\desktop\Илья учёба\2 лаба\notebook.h
+	<string>
+	<iostream>
+
+1586679860 source:c:\users\79297\desktop\Илья учёба\2 лаба\notebook.cpp
+	"notebook.h"
+
